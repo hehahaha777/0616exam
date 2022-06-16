@@ -3,5 +3,21 @@
 }
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
+<p>姓名：王雯欣</p>
+<p>學號：123456789</p>
+喜欢的水果:
+@{
 
-<p>Use this area to provide additional information.</p>
+    string[] fruits = { "蘋果", "香蕉", "荔枝", "鳳梨", "西瓜" };
+
+}
+<ol>
+    @foreach (var item in fruits)
+    {
+
+        <li>@item</li>
+    }
+</ol>
+
+
+
