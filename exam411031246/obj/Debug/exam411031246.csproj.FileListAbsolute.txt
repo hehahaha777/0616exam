@@ -89,3 +89,4 @@ D:\exam\exam411031246\exam411031246\bin\EntityFramework.xml
 D:\exam\exam411031246\exam411031246\bin\EntityFramework.SqlServer.xml
 D:\exam\exam411031246\exam411031246\bin\zh-Hant\EntityFramework.resources.dll
 D:\exam\exam411031246\exam411031246\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\exam\exam411031246\exam411031246\obj\Debug\exam411031246.csproj.AssemblyReference.cache
